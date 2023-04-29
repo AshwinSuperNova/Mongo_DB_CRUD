@@ -10,5 +10,5 @@ Mongo_DB CRUD OPERATIONS
 8) npm i nodemon
 9) nodemon index.js
 10) check whether server and mongodb connected successfully
-11) to make mongodb connection create new database in mongodb compass and paste connection string in db.js wherw mongoose.connect("your con string")
+11) to make mongodb connection create new database in mongodb compass and paste connection string in db.js where mongoose.connect("your con string")
 12) now you can connect nodejs with angular frontend
